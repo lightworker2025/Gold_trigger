@@ -1,0 +1,16 @@
+{
+  "name": "Gold Trigger",
+  "short_name": "GoldTrigger",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffd700",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "lang": "fa"
+}
